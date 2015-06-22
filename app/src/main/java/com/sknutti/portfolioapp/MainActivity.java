@@ -61,7 +61,7 @@ public class MainActivity extends ActionBarActivity {
         showToast("library");
     }
 
-    public void openMakeItBiggerApp(View view) {
+    public void openBuildItBiggerApp(View view) {
         showToast("make it bigger");
     }
 
